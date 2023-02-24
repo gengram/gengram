@@ -86,3 +86,7 @@ p {
 .correo a {
     text-shadow: none;
 }
+
+.row {
+    float:unset;
+}
