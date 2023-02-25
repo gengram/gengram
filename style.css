@@ -44,7 +44,7 @@ p {
 .titulo {
     color: #FFFFFF;
     bottom: 0;
-    background: linear-gradient(#5f6161 0%, #232c27 100%);
+    background: linear-gradient(#55527d 0%, #8a85ca 100%);
     display: table;
     width: 100%;
     height: 100%;
@@ -69,24 +69,33 @@ p {
 }
 
 .line {
-    height: 4px;
-    background-color: #303030;
-    width: 200px;
+    height: 1px;
+    background-color: #b1b1b1;
+    width: 80%;
     margin: 8px auto;
+}
+
+#contacto {
+    background-color: #55527d;
+}
+
+#contacto h1 {
+    color: #ffffff;
+}
+
+#contacto a {
+    color: #aea7ff;
 }
 
 #correo iframe {
     width: 100%;
 }
 
-.correo h3 {
-    display: inline;
+
+.row h1 {
+    color: #55527d;
 }
 
-.correo a {
-    text-shadow: none;
-}
-
-.row {
-    float:unset;
+.row h3 {
+    color: #55527d;
 }
