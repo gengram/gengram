@@ -13,6 +13,11 @@ h2 {
     font-weight: 600;
 }
 
+h4 {
+    font-family: 'Archivo', sans-serif;
+    font-weight: bolder;
+}
+
 p {
     font-family: 'Archivo', sans-serif;
 }
@@ -62,6 +67,12 @@ p {
     text-align: center;
 }
 
+#valores iframe {
+    font-family: 'Archivo', sans-serif;
+    padding: 50px;
+    text-align: center;
+}
+
 #nosotros iframe {
     font-family: 'Archivo', sans-serif;
     padding: 50px;
@@ -91,7 +102,6 @@ p {
     width: 100%;
 }
 
-
 .row h1 {
     color: #55527d;
 }
@@ -99,3 +109,4 @@ p {
 .row h3 {
     color: #55527d;
 }
+
